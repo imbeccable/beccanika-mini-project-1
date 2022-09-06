@@ -1,2 +1,4 @@
 # beccanika-mini-project-1
-The first mini-project
+Start with a triangle that fits the bounds of your canvas, then layer proportionally smaller triangles
+on top of the original. Then draw a rainbow of colors at points that are similar to a sine wave overlaping 
+the triangles.
